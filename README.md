@@ -7,3 +7,5 @@ The client wanted to launch a new business unit, focusing on global trade and lo
 majorly in the countries such as USA, Canada and Australia The dataset provided by the client contained 59090 observations of 10 variables.
 The client insisted the data to be cleaned using Excel or R. 
 The Dataset contained missing values and was cleaned using the R programming language. Tableau dashboards should be created from the cleaned dataset.
+
+![Dashboard ](https://github.com/Strictly4data/Global-Trade-Analysis/blob/main/Trade%20Market%20Part%201%20(2).png)
